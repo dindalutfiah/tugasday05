@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DindaLutfiahQuiz1</string>
+    <string-array name="barang_array">
+        <item>PCO - POCO M3</item>
+        <item>AA5 - Acer Aspire 5</item>
+        <item>SGS - Samsung Galaxy S</item>
+    </string-array>
+
+    <string name="namaPelanggan">Nama Pelanggan</string>
+    <string name="kodeBarang">Kode Barang</string>
+    <string name="jumlahBarang">Jumlah Barang</string>
+    <string name="emas">Emas</string>
+    <string name="perak">Perak</string>
+    <string name="biasa">Biasa</string>
+    <string name="proses">Proses</string>
+    <string name="selamatDatang">Selamat Datang</string>
+    <string name="tipePelanggan">Tipe Pelanggan</string>
+    <string name="transaksiHariIni">Transaksi Hari Ini</string>
+    <string name="namaBarang">Nama Barang</string>
+    <string name="harga">Harga :</string>
+    <string name="jumlahHarga">Jumlah Harga :</string>
+    <string name="potonganPelanggan">Potongan Pelanggan :</string>
+    <string name="potonganHarga">Potongan Harga :</string>
+    <string name="jumlahBayar">Jumlah Bayar</string>
+    <string name="terimakasihTelahBerbelanjaDisini">Terimakasih Telah Berbelanja Disini</string>
+    <string name="bagikanTransaksi">Bagikan Transaksi</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="masukkanJumlahBarangYangValid">Masukkan jumlah barang yang valid</string>
+    <string name="kodeBarangTidakValid">Kode barang tidak valid</string>
+
+</resources>

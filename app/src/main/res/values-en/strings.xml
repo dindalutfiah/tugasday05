@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DindaLutfiahQuiz1</string>
+    <string name="namaPelanggan">Customer\'s name</string>
+    <string name="kodeBarang">Item code</string>
+    <string name="jumlahBarang">The amount of goods</string>
+    <string name="emas">Gold</string>
+    <string name="perak">Silver</string>
+    <string name="biasa">Normal</string>
+    <string name="proses">Pocess</string>
+    <string name="selamatDatang">Welcome</string>
+    <string name="transaksiHariIni">Today\'s Transactions</string>
+    <string name="namaBarang">Name of goods</string>
+    <string name="harga">Price :</string>
+    <string name="jumlahBayar">Payment Amount</string>
+    <string name="terimakasihTelahBerbelanjaDisini">Thank you for shopping here</string>
+    <string name="bagikanTransaksi">Share Transactions</string>
+    <string name="bagikan">Share</string>
+    <string name="tipePelanggan">Customer Type</string>
+    <string name="potonganPelanggan">Customer Discounts:</string>
+    <string name="potonganHarga">Discounts :</string>
+    <string name="jumlahHarga">Total price :</string>
+    <string name="masukkanJumlahBarangYangValid">Enter a valid item quantity</string>
+    <string name="kodeBarangTidakValid">Invalid item code</string>
+</resources>
